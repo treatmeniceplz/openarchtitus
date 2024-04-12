@@ -3,7 +3,7 @@ I believe there is a bug in `pacstrap` or `grub-install`, which doesn't allow th
 
 # OpenArchTitus
 
-This is a version of [ArchTitus (Now Archived)](https://github.com/christitustech/archtitus) that will be actively maintained.
+This is a version of [ArchTitus)](https://github.com/christitustech/archtitus) that will be actively maintained.
 
 ---
 ## Create bootable drive/use ISO image
